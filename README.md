@@ -1,6 +1,6 @@
 # Redux Toolkit
 
-[DEMO](https://mecoloji.github.io/redux-toolkit-shopping-cart-project/)
+## [DEMO](https://mecoloji.github.io/redux-toolkit-shopping-cart-project/)
 
 #### Docs
 
